@@ -9,7 +9,9 @@ Inputs:
 
 Image
 Output Shape= ['same','valid','full']
+
 Pad Types= ['constant', 'wrap' , 'edge', 'reflect']
+
 Kernel options= {1:'sobel',2:'laplacian'}
 
 Output: The filtered image along with the new dimensions of the image. 
