@@ -1,4 +1,4 @@
-# Interpreting Image as Graphs and using Breadth First Search to compute the shortest distance between pixels 
+# Interpreting Image as Graphs and computing the shortest distance between pixels 
 
 Here we compute the shortest path between two pixels using three different distance measures, namely 4-adjacency, 8-adjacency, and m-adjacency measures. 
 
